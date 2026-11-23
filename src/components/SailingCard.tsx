@@ -81,7 +81,7 @@ export default function SailingCard({ sailing }: { sailing: Sailing }) {
             </div>
             <p
               className="text-right text-xs font-medium text-emerald-700"
-              title="WaveFares checks this fare against the cruise line's published prices every day."
+              title="WaveFares checks this fare on Priceline Cruises every day."
             >
               ✓ {formatChecked(sailing.priceChecked)}
             </p>
