@@ -13,14 +13,14 @@ export const metadata: Metadata = {
     template: "%s | WaveFares",
   },
   description:
-    "Cruise deals from all 20 major U.S. homeports with fares checked daily. We don't sell cruises — find your fare here, then book direct with the cruise line.",
+    "Cruise deals from all 20 major U.S. homeports with fares checked daily. We don't sell cruises — find your fare here, then book it on Priceline Cruises.",
   alternates: { canonical: "/" },
   openGraph: {
     siteName: "WaveFares",
     type: "website",
     title: "WaveFares — Cruise Deals From Every U.S. Port",
     description:
-      "Real cruise fares from all 20 U.S. homeports, checked daily. Book direct with the cruise line — we never add fees.",
+      "Real cruise fares from all 20 U.S. homeports, checked daily. Book on Priceline Cruises — we never add fees.",
   },
 };
 
