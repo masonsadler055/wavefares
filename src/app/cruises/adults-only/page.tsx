@@ -5,7 +5,7 @@ import { adultsOnlySailings } from "@/data";
 export const metadata: Metadata = {
   title: "Adults-Only Cruises — 18+ Sailings, No Kids, Fares Checked Daily",
   description:
-    "Adults-only cruise deals from U.S. ports: Virgin Voyages (18+ fleet-wide) and other grown-ups-only sailings. Real fares checked daily; book direct with the cruise line.",
+    "Adults-only cruise deals from U.S. ports: Virgin Voyages (18+ fleet-wide) and other grown-ups-only sailings. Real fares checked daily; book on Priceline Cruises.",
   alternates: { canonical: "/cruises/adults-only" },
 };
 
