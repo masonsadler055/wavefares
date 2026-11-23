@@ -28,8 +28,8 @@ export default function HomePage() {
           </h1>
           <p className="mt-4 max-w-2xl text-lg text-slate-200">
             We track real fares from all 20 major U.S. homeports and stamp every deal with the day we
-            checked it. We don&apos;t sell cruises: find your fare here, then book direct with the
-            cruise line at the same price.
+            checked it. We don&apos;t sell cruises: find your fare here, then book it on Priceline
+            Cruises at the same price.
           </p>
           <dl className="mt-8 flex flex-wrap gap-x-10 gap-y-3 text-sm">
             <div>
@@ -150,16 +150,17 @@ export default function HomePage() {
           <li className="rounded-xl border border-slate-200 p-5">
             <p className="font-display text-lg font-bold text-deep">1. We check fares daily</p>
             <p className="mt-2 text-sm leading-relaxed text-slate-600">
-              Every listing carries a “Price checked” stamp with the date we last verified it against
-              the cruise line&apos;s published fare. Stale prices are the enemy — we hunt them down
+              Every listing carries a “Price checked” stamp with the date we last verified it on
+              Priceline Cruises. Stale prices are the enemy — we hunt them down
               every day.
             </p>
           </li>
           <li className="rounded-xl border border-slate-200 p-5">
-            <p className="font-display text-lg font-bold text-deep">2. You book direct</p>
+            <p className="font-display text-lg font-bold text-deep">2. You book on Priceline</p>
             <p className="mt-2 text-sm leading-relaxed text-slate-600">
-              “View Deal” takes you straight to the cruise line&apos;s own booking page. Same fare,
-              no middleman, no added fees — your booking is with the line itself.
+              “View Deal” takes you to that sailing&apos;s page on Priceline Cruises. Same sailing,
+              no fees added by us — WaveFares may earn a commission from Priceline at no extra
+              cost to you.
             </p>
           </li>
           <li className="rounded-xl border border-slate-200 p-5">
