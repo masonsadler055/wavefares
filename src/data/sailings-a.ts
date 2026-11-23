@@ -48,7 +48,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2027-02-28",
     pricePerPerson: 320,
     portsOfCall: ["Galveston", "Cozumel", "Roatán", "Galveston"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
     featured: true,
   },
@@ -83,7 +83,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2026-11-23",
     pricePerPerson: 839,
     portsOfCall: ["Galveston", "Cozumel", "Belize", "Roatán", "Montego Bay", "Galveston"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
   },
   {
@@ -99,7 +99,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2026-12-27",
     pricePerPerson: 989,
     portsOfCall: ["Galveston", "Belize", "Cozumel", "Galveston"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
   },
   // ---- Port Miami (researched) ----
@@ -148,7 +148,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2027-01-04",
     pricePerPerson: 393,
     portsOfCall: ["Miami", "Celebration Key", "Montego Bay", "Grand Cayman", "Miami"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
   },
   {
@@ -181,7 +181,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2027-01-10",
     pricePerPerson: 414,
     portsOfCall: ["Miami", "Celebration Key", "Montego Bay", "Grand Cayman", "Miami"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
   },
   {
@@ -297,7 +297,7 @@ export const sailingsA: Sailing[] = [
     departureDate: "2027-02-20",
     pricePerPerson: 573,
     portsOfCall: ["Port Canaveral", "Nassau", "Half Moon Cay", "Amber Cove", "Celebration Key", "Port Canaveral"],
-    bookingUrl: "https://www.carnival.com/cruises",
+    bookingUrl: "https://www.carnival.com/cruise-search",
     priceChecked: "2026-11-22",
   },
   // ---- Port Everglades (researched) ----
