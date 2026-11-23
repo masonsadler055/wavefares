@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { ports, destinations, DATA_TODAY } from "@/data";
 import { SITE_URL } from "./layout";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date(DATA_TODAY + "T00:00:00Z");
   const entry = (path: string, priority: number, changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"]) => ({
